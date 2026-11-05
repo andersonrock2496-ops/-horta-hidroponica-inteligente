@@ -1,0 +1,80 @@
+TESTE ACELERADO - DOSAGEM INTELIGENTE
+==========================================================================================
+00:00 | pH=6.453 | EC=1.051 | Nivel=90.0% | Estado=BLOQUEADO | Dose=- | Mistura=0 min
+00:05 | pH=6.455 | EC=1.052 | Nivel=89.9% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+00:25 | pH=6.405 | EC=1.056 | Nivel=89.8% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+00:30 | pH=6.348 | EC=1.057 | Nivel=89.7% | Estado=MISTURANDO | Dose=- | Mistura=10 min
+00:45 | pH=6.355 | EC=1.060 | Nivel=89.6% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+01:00 | pH=6.303 | EC=1.063 | Nivel=89.5% | Estado=MISTURANDO | Dose=- | Mistura=0 min
+01:05 | pH=6.305 | EC=1.064 | Nivel=89.5% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+01:25 | pH=6.255 | EC=1.068 | Nivel=89.3% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+01:30 | pH=6.198 | EC=1.069 | Nivel=89.3% | Estado=MISTURANDO | Dose=- | Mistura=10 min
+01:45 | pH=6.205 | EC=1.072 | Nivel=89.2% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+02:00 | pH=6.153 | EC=1.075 | Nivel=89.1% | Estado=MISTURANDO | Dose=- | Mistura=0 min
+02:05 | pH=6.155 | EC=1.076 | Nivel=89.0% | Estado=DOSANDO | Dose=D3 | Mistura=15 min
+02:25 | pH=6.165 | EC=1.105 | Nivel=88.9% | Estado=DOSANDO | Dose=D4 | Mistura=15 min
+02:30 | pH=6.168 | EC=1.131 | Nivel=88.8% | Estado=MISTURANDO | Dose=- | Mistura=10 min
+02:45 | pH=6.175 | EC=1.134 | Nivel=88.7% | Estado=DOSANDO | Dose=D3 | Mistura=15 min
+03:00 | pH=6.183 | EC=1.162 | Nivel=88.6% | Estado=MISTURANDO | Dose=- | Mistura=0 min
+03:05 | pH=6.185 | EC=1.163 | Nivel=88.6% | Estado=DOSANDO | Dose=D4 | Mistura=15 min
+03:25 | pH=6.195 | EC=1.192 | Nivel=88.4% | Estado=DOSANDO | Dose=D3 | Mistura=15 min
+03:30 | pH=6.198 | EC=1.218 | Nivel=88.4% | Estado=MISTURANDO | Dose=- | Mistura=10 min
+03:45 | pH=6.205 | EC=1.221 | Nivel=88.3% | Estado=DOSANDO | Dose=D4 | Mistura=15 min
+04:00 | pH=6.213 | EC=1.249 | Nivel=88.2% | Estado=MISTURANDO | Dose=- | Mistura=0 min
+04:05 | pH=6.215 | EC=1.250 | Nivel=88.1% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+04:30 | pH=6.168 | EC=1.255 | Nivel=87.9% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+05:00 | pH=6.183 | EC=1.261 | Nivel=87.7% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+05:30 | pH=6.198 | EC=1.267 | Nivel=87.5% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+05:40 | pH=6.203 | EC=1.269 | Nivel=87.4% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+06:00 | pH=6.153 | EC=1.273 | Nivel=87.3% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+06:30 | pH=6.168 | EC=1.279 | Nivel=87.0% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+07:00 | pH=6.183 | EC=1.285 | Nivel=86.8% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+07:30 | pH=6.198 | EC=1.291 | Nivel=86.6% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+07:40 | pH=6.203 | EC=1.293 | Nivel=86.5% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+08:00 | pH=6.153 | EC=1.297 | Nivel=86.4% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+08:30 | pH=6.168 | EC=1.303 | Nivel=86.1% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+09:00 | pH=6.183 | EC=1.309 | Nivel=85.9% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+09:30 | pH=6.198 | EC=1.315 | Nivel=85.7% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+09:40 | pH=6.203 | EC=1.317 | Nivel=85.6% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+10:00 | pH=6.153 | EC=1.321 | Nivel=85.5% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+10:30 | pH=6.168 | EC=1.327 | Nivel=85.2% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+11:00 | pH=6.183 | EC=1.333 | Nivel=85.0% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+11:30 | pH=6.198 | EC=1.339 | Nivel=84.8% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+11:40 | pH=6.203 | EC=1.341 | Nivel=84.7% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+12:00 | pH=6.153 | EC=1.345 | Nivel=84.6% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+12:30 | pH=6.168 | EC=1.351 | Nivel=84.3% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+13:00 | pH=6.183 | EC=1.357 | Nivel=84.1% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+13:30 | pH=6.198 | EC=1.363 | Nivel=83.9% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+13:40 | pH=6.203 | EC=1.365 | Nivel=83.8% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+14:00 | pH=6.153 | EC=1.369 | Nivel=83.7% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+14:30 | pH=6.168 | EC=1.375 | Nivel=83.4% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+15:00 | pH=6.183 | EC=1.381 | Nivel=83.2% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+15:30 | pH=6.198 | EC=1.387 | Nivel=83.0% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+15:40 | pH=6.203 | EC=1.389 | Nivel=82.9% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+16:00 | pH=6.153 | EC=1.393 | Nivel=82.8% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+16:30 | pH=6.168 | EC=1.399 | Nivel=82.5% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+17:00 | pH=6.183 | EC=1.405 | Nivel=82.3% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+17:30 | pH=6.198 | EC=1.411 | Nivel=82.1% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+17:40 | pH=6.203 | EC=1.413 | Nivel=82.0% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+18:00 | pH=6.153 | EC=1.417 | Nivel=81.9% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+18:30 | pH=6.168 | EC=1.423 | Nivel=81.6% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+19:00 | pH=6.183 | EC=1.429 | Nivel=81.4% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+19:30 | pH=6.198 | EC=1.435 | Nivel=81.2% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+19:40 | pH=6.203 | EC=1.437 | Nivel=81.1% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+20:00 | pH=6.153 | EC=1.441 | Nivel=81.0% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+20:30 | pH=6.168 | EC=1.447 | Nivel=80.7% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+21:00 | pH=6.183 | EC=1.453 | Nivel=80.5% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+21:30 | pH=6.198 | EC=1.459 | Nivel=80.3% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+21:40 | pH=6.203 | EC=1.461 | Nivel=80.2% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+22:00 | pH=6.153 | EC=1.465 | Nivel=80.1% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+22:30 | pH=6.168 | EC=1.451 | Nivel=87.8% | Estado=BLOQUEADO | Dose=- | Mistura=0 min
+23:00 | pH=6.183 | EC=1.437 | Nivel=95.6% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+23:30 | pH=6.198 | EC=1.443 | Nivel=95.4% | Estado=MONITORANDO | Dose=- | Mistura=0 min
+23:40 | pH=6.203 | EC=1.445 | Nivel=95.3% | Estado=DOSANDO | Dose=D1 | Mistura=15 min
+
+RESUMO
+pH final: 6.15
+EC final: 1.448
+Pulsos: {'D1': 17, 'D2': 0, 'D3': 3, 'D4': 3}
+Estado: MISTURANDO
+Alarmes: []

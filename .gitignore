@@ -1,0 +1,28 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Dados gerados pela simulacao
+dados/*.csv
+historico_*.csv
+
+# Arquivos temporarios
+*.tmp
+*.bak
+
+# Log demonstrativo documentado no README
+!logs/simulacao_24h.log
